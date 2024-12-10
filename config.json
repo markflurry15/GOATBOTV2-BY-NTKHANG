@@ -25,11 +25,11 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Cliff Vincent",
+  "OWNER": "Mark",
   "AGE": "18",
   "GENDER": "MALE",
-  "nickNameBot": "Yazkybot",
-  "FACEBOOK": "https://www.facebook.com/swordigo.swordslush",
+  "nickNameBot": "Markbot",
+  "FACEBOOK": "https://www.facebook.com/markflurry14",
   "prefix": "✓",
   "database": {
     "type": "sqlite",
